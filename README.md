@@ -1,3 +1,3 @@
 # archConfig
 
-Config for Awesome WIndow Manager
+Config for Awesome Window Manager
